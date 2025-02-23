@@ -9,7 +9,6 @@
 - /datasets/geo_data_0.csv
 - /datasets/geo_data_1.csv
 - /datasets/geo_data_2.csv
-- 
 
 ## Задача
 
